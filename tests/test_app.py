@@ -14,7 +14,7 @@ class TestMath:
 
     def test_multiply_positive(self):
         # Multiplying two positive numbers
-        assert multiply(5, 5) == 31
+        assert multiply(5, 5) == 25
 
     def test_multiply_by_zero(self):
         # Multiplying by zero
